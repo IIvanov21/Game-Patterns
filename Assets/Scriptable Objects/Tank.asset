@@ -16,4 +16,5 @@ MonoBehaviour:
   health: 150
   speed: 10
   attackDamage: 15
-  characterPrefab: {fileID: 3888897953219610526, guid: a034f51f85243cf4c9e00a228d312527, type: 3}
+  characterPrefab: {fileID: 3888897953219610526, guid: e725c58103c97fa4ab689b3344b78e9b, type: 3}
+  attackTime: 0
