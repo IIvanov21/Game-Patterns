@@ -30,7 +30,7 @@ namespace RobCinemachineFreelookCamera
 
         private void Start()
         {
-            SetCursor();
+            //SetCursor();
         }
 
         void Update()
